@@ -51,7 +51,7 @@
             // timer1
             // 
             this.timer1.Enabled = true;
-            this.timer1.Interval = 3000;
+            this.timer1.Interval = 10000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // pictureBox2
@@ -89,6 +89,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "loading";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "loading";
             this.Load += new System.EventHandler(this.loading_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
