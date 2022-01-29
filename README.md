@@ -24,6 +24,11 @@ Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre deği�
 
 ## DirectoryServices hatası nasıl çözülür?
 
-1. Çözüm gezgini kısmında başvurulara sağ tıklıyoruz ve başvuru ekleyi seçiyoruz
-2. Derlemeler kısmını seçiyoruz ve arama kısmına **DirectoryServices** Yazıyoruz
-3. **System.DirectoryServices** kısmını tikliyoruz ve tamama basıp kapatıyoruz
+1. Çözüm gezgini kısmında başvurulara sağ tıklıyoruz ve başvuru ekleyi seçiyoruz.
+2. Derlemeler kısmını seçiyoruz ve arama kısmına **DirectoryServices** Yazıyoruz.
+3. **System.DirectoryServices** kısmını tikliyoruz ve tamama basıp kapatıyoruz.
+4. Eğer hata devam ediyorsa aşağıdaki kodu en üste ekliyoruz.
+
+```
+using System.DirectoryServices;
+```
