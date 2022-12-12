@@ -1,6 +1,6 @@
 # Zaytron Şifre Değiştirici
 
-<img src="http://cdn.ardademir.me/img/ads.jpg" align="right"
+<img src="http://cdn.ardademir.com.tr/img/ads.jpg" align="right"
      alt="Arda Demir Logo" width="120" height="120">
 
 Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre değiştirici
@@ -11,14 +11,14 @@ Tek tıkla şifre değiştirmenize yarayan açık kaynak kodlu bir şifre deği�
 # Örnek Görseller
 **Yükleniyor Sayfası**
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/password1.png" alt="Görsel 2" width="512" height="712">
+  <img src="https://cdn.ardademir.com.tr/img/password1.png" alt="Görsel 2" width="512" height="712">
 </p>
 
 
 **Açılış Sayfası**
 
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/password2.png" alt="Görsel 2" width="312" height="312">
+  <img src="https://cdn.ardademir.com.tr/img/password2.png" alt="Görsel 2" width="312" height="312">
 </p>
 
 
